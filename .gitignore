@@ -1,0 +1,10 @@
+Include/
+Lib/
+Library/
+Scripts/
+share/
+pyvenv.cfg
+.vscode/
+*.wav
+try*.py 
+.env
